@@ -12,4 +12,4 @@ de la clase, en este caso no es eficiente. Por lo tanto se realizo un parseo del
 
 ## EJECUCION
 
-Clase principal contiene el metodo main para su utilizacion.
+Clase "principal" contiene el metodo main para su utilizacion.
